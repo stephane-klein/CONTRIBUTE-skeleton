@@ -14,7 +14,7 @@ More information: [« GitLab Workflow: An Overview  »](https://about.gitlab.com
 ## Git workflow
 
 - [ProjectName] follow [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/), extract:
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) ([comments](https://news.ycombinator.com/item?id=13889155)), extract:
 
   A properly formed Git commit subject line should always be able to complete the following sentence:
 
