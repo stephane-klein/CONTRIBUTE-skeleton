@@ -43,6 +43,8 @@ More information: [« GitLab Workflow: An Overview  »](https://about.gitlab.com
   ```
   git config --global pull.rebase true
   ```
+- Write [Atomic Commits](https://seesparkbox.com/foundry/atomic_commits_with_git)
+
 
 ## Editor configuration
 
