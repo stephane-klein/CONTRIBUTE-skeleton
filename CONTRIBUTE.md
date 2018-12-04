@@ -49,6 +49,10 @@ More information: [« GitLab Workflow: An Overview »](https://about.gitlab.com/
 
 ## Editor configuration
 
+Python:
+
+- Use [Black](https://github.com/ambv/black) to format Python code.
+
 Golang:
 
 - Use [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) (more [maintained](https://go.libhunt.com/compare-goreturns-vs-tools) than goreturns)
