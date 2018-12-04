@@ -1,19 +1,20 @@
 # How to contribute to [ProjectName]
 
+- [ProjectName] follow [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Follow GitLab Workflow
 
-- First create Issue
-- Next Create Work in Progress Merge Request
+- First create one Issue
+- Next Create « Work in Progress » Merge Request
 - Enter in Code, Test and Review cycle
-- When all is ok, push to `develop` branch
-- When integration test is ok, push to `staging`
-- When test is ok in `staging` push to `master` to auto deploy
+- When code review is ok, push to `develop` branch
+- When the integration tests are ok, push to `staging`
+- When tests are ok in `staging` push to `master` to auto deploy
 
-More information: [« GitLab Workflow: An Overview  »](https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/)
+More information: [« GitLab Workflow: An Overview »](https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/)
 
 ## Git workflow
 
-- [ProjectName] follow [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) ([comments](https://news.ycombinator.com/item?id=13889155)), extract:
 
   A properly formed Git commit subject line should always be able to complete the following sentence:
