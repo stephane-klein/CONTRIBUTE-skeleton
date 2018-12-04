@@ -1,6 +1,7 @@
 # How to contribute to [ProjectName]
 
-- [ProjectName] follow [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- Follow [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- Follow [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 ## Follow GitLab Workflow
 
