@@ -53,6 +53,7 @@ More information: [« GitLab Workflow: An Overview »](https://about.gitlab.com/
 Python:
 
 - Use [Black](https://github.com/ambv/black) to format Python code.
+- Use [flake8](https://pypi.org/project/flake8/) for Linter
 
 Golang:
 
@@ -68,6 +69,8 @@ If you use [VSCode editor](https://code.visualstudio.com/):
 
 If you use [Atom editor](https://atom.io/):
 
+- Install [linter-flake8](https://atom.io/packages/linter-flake8)
+- Install [python-black](https://atom.io/packages/python-black)
 - Install [atomenv package](https://atom.io/packages/atomenv).<br />
   After installation, execute `atomenv: Load` command in Atom editor to load good GOLANG variable environment (from [`/.atomenv.cson`](.atomenv.cson))
 
