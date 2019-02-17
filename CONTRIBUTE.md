@@ -66,6 +66,7 @@ Bash:
 If you use [VSCode editor](https://code.visualstudio.com/):
 
 - Install [https://github.com/Microsoft/vscode-go](https://github.com/Microsoft/vscode-go).
+- Set project Workspace settings: copy [`vscode/settings.json`](vscode/settings.json) content in `.vscode/settings.json` file at root in your projet repository.
 
 If you use [Atom editor](https://atom.io/):
 

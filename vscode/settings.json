@@ -1,0 +1,6 @@
+{
+    "go.gopath": "${workspaceRoot}/",
+    "go.formatTool": "goimports",
+    "go.lintTool": "gometalinter",
+    "go.toolsGopath": "~/gotools/"
+}
